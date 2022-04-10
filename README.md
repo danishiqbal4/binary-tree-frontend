@@ -1,7 +1,7 @@
 # Binary Tree API - Frontend
 
 - This is the frontend for a user Binary Tree that fetches data from the Binary Tree API https://github.com/danishiqbal4/binary-tree-api
-- The frontend is developed in `React` app.
+- The frontend is developed in `React` using the `Create React App`.
 
 ## How to install on localhost
 
